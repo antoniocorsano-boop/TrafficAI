@@ -1,0 +1,5 @@
+{
+  "name": "Ariano Traffic Analyser",
+  "description": "Piattaforma di analisi del traffico urbano per Ariano Irpino, con monitoraggio dei flussi, indici di congestione e dashboard interattive.",
+  "requestFramePermissions": ["geolocation"]
+}
